@@ -1,2 +1,6 @@
 # UVBetlehemApp
-__11.04.2019__
+_11.04.2019_
+
+App til å forbedre tjenesteorganisering i UV Betlehem. 
+
+__written in__ Javascript       
